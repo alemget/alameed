@@ -685,20 +685,20 @@ export default function SmartSecurityLanding() {
                   </div>
                   <h4 className="text-lg sm:text-xl font-bold text-foreground mb-3 sm:mb-4">موقعنا</h4>
                   <a
-                    href="https://maps.google.com/?q=الرياض+السويدي+شارع+سدير"
+                    href="https://maps.google.com/?q=الرياض+شارع+العليا+جوار+برج+المملكة"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-primary hover:text-primary/80 transition-colors block mb-1 text-sm sm:text-base"
                   >
-                    الرياض - السويدي
+                    الرياض . شارع العليا
                   </a>
                   <a
-                    href="https://maps.google.com/?q=الرياض+السويدي+شارع+سدير"
+                    href="https://maps.google.com/?q=الرياض+شارع+العليا+جوار+برج+المملكة"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-primary hover:text-primary/80 transition-colors block text-xs sm:text-sm"
                   >
-                    شارع سدير
+                    جوار برج المملكة
                   </a>
                 </CardContent>
               </Card>
@@ -845,7 +845,7 @@ export default function SmartSecurityLanding() {
                 </p>
                 <p className="flex items-start">
                   <MapPin className="w-4 h-4 ml-2 text-primary flex-shrink-0 mt-1" />
-                  الرياض - السويدي - شارع سدير
+                  الرياض . شارع العليا جوار برج المملكة
                 </p>
               </div>
             </div>
